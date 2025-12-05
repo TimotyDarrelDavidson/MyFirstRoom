@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.MyFirstRoom" parent="android:Theme.Material.Light.NoActionBar" />
+    <!-- Use a MaterialComponents theme -->
+    <style name="Theme.MyFirstRoom" parent="Theme.MaterialComponents.DayNight.DarkActionBar" />
+
 </resources>
