@@ -45,7 +45,6 @@ class TambahData : AppCompatActivity() {
                         tanggal
                     )
                 )
-
             }
         }
 

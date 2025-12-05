@@ -19,4 +19,6 @@ interface NoteDAO {
 
     @Query("SELECT * FROM note ORDER BY id asc")
     fun selectAll() : MutableList<Note>
+
+
 }
